@@ -1,5 +1,11 @@
 # Milestone-5: Chrome Extension: 21st century bookmarker
 
+
+Team 6
+Aqeeb Javeed Mohammed
+Pavan Dattu
+
+
 ## Learning Competencies
 
 By the end of this milestone ensure that you
